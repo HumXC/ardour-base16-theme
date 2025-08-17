@@ -357,7 +357,7 @@
     <ColorAlias name="secondary delta clock: edited text" alias="base09"/>
     <ColorAlias name="secondary delta clock: text" alias="base09"/>
     <ColorAlias name="selected midi note frame" alias="base0E"/>
-    <ColorAlias name="selected region base" alias="base0B"/>
+    <ColorAlias name="selected region base" alias="base0F"/>
     <ColorAlias name="selected time axis frame" alias="base0E"/>
     <ColorAlias name="selected waveform fill" alias="base0D"/>
     <ColorAlias name="selected waveform outline" alias="base04"/>
